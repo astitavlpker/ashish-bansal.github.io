@@ -1,0 +1,147 @@
+.thumbmask:hover {
+    opacity: 0;
+}
+#citi-container:hover, #grid-container:hover, .googleplus:hover, .githubicon:hover, .emailicon:hover, .twittericon:hover, .dribbbleicon:hover, #ice-container:hover, #qri-container:hover, #bennett-container:hover, #burke-container:hover {
+    opacity: 1;
+}
+#grid-container {
+    background: url("../img/featured-grid.jpg") no-repeat scroll center 0 transparent;
+}
+#ice-container {
+    background: url("../img/featured-ice.jpg") no-repeat scroll center 0 transparent;
+}
+#qri-container {
+    background: url("../img/featured-qri.jpg") no-repeat scroll center 0 transparent;
+}
+#bennett-container {
+    background: url("../img/featured-run.jpg") no-repeat scroll center 0 transparent;
+}
+#burke-container {
+    background: url("../img/featured-burke.jpg") no-repeat scroll center 0 transparent;
+}
+.cons-container {
+    background-color: #1A1C1D;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+}
+.cons-container ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+.cons-container ul li {
+    margin: 0;
+    padding: 0;
+}
+.socialcons {
+    background: none repeat scroll 0 0 transparent;
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    width: 33.33%;
+}
+.label {
+    background-color: #26292A;
+    bottom: -100px;
+    color: #EFEFEF;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 0.8em;
+    letter-spacing: 0.12em;
+    padding: 12px 0;
+    position: absolute;
+    text-align: center;
+    transition: all 0.45s ease 0s;
+    width: 100%;
+    z-index: 100;
+}
+.collab {
+    color: #CACACA;
+    font-size: 0.7em;
+}
+.collab a {
+    color: #CACACA;
+    text-decoration: none;
+}
+.collab a:hover {
+    text-decoration: underline;
+}
+.socialcons:hover .label {
+    bottom: 0;
+}
+.bit {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    padding-top: 100%;
+    transition: all 0.4s ease 0s;
+    width: 100%;
+}
+.githubicon {
+    background-image: url("../img/Octocat.jpg");
+    opacity: 0.7;
+    transition: all 0.2s linear 0s;
+}
+.twittericon {
+    background-image: url("../img/thumb-twitter.jpg");
+    opacity: 0.7;
+    transition: all 0.2s linear 0s;
+}
+.dribbbleicon {
+    background-image: url("../img/thumb-dribbble.jpg");
+    opacity: 0.7;
+    transition: all 0.2s linear 0s;
+}
+.googleplus {
+    background-image: url("../img/thumb-googleplus.png");
+    opacity: 0.7;
+    transition: all 0.2s linear 0s;
+}
+.emailicon {
+    background-image: url("../img/thumb-mail.svg");
+    opacity: 0.7;
+    transition: all 0.2s linear 0s;
+}
+.emailme {
+  	font-family: 'Open Sans',sans-serif;
+    font-size: 0.85em;
+    letter-spacing: 0.085em;
+    padding: 55px 0 0;
+    text-align: center;
+    width: 100%;
+}
+.emailme a {
+    border: 1px solid #747476;
+    color: #545455;
+    padding: 13px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.25s ease 0s;
+}
+.emailme a:hover {
+    background-color: #26292A;
+    border: 1px solid #26292A;
+    border-radius: 2px 2px 2px 2px;
+    color: #E9EBEF;
+    text-decoration: none;
+}
+footer {
+    background-attachment: fixed;
+    background-color: #222627;
+    background-image: url("../img/footer-bg-wide.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 120% auto;
+    max-width: 1990px;
+    overflow: hidden;
+    padding: 150px 0;
+}
+.bottom-bar {
+    background-color: #000000;
+    overflow: hidden;
+    padding: 50px;
+    text-align: center;
+}
