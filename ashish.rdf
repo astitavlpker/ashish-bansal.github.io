@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+	xmlns:admin="https://plus.google.com/+AshishBansal77">
+
+<rdf:Description rdf:about="ashish-bansal.github.io">
+	<dc:title>Ashish Bansal | Software Developer</dc:title>
+	<dc:description>Hi everyone , I am Ashish Bansal. Software Developer FOSS Contributor. I love linux and android, and coding too ;).....</dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>Ashish</rdf:li>
+			<rdf:li>Bansal</rdf:li>
+			<rdf:li>Software Developer</rdf:li>
+			<rdf:li>mrphantom</rdf:li>
+			<rdf:li>Ashish Bansal</rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:language>en</dc:language>
+	<dc:creator dc:source="plus.google.com/+AshishBansal77" rdfs:Literal="Ashish Bansal" />
+	<dc:contributor dc:source="http://ashish-bansal.github.io" rdfs:Literal="Ashish Bansal" />
+	<dc:publisher dc:source="http://www.github.com/Ashish-Bansal" rdfs:Literal="Ashish Bansal" />
+	<dc:license dc:source="http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" rdfs:Literal="CC Attribution-NonCommercial-ShareAlike 4.0" />
+	<dcterms:Created><dcterms:W3CDTF><rdf:value>2014-9-14</rdf:value></dcterms:W3CDTF></dcterms:Created>
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/Collection" />
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/Image" />
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/MovingImage" />
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/StillImage"/>
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/Text" />
+	<dc:relation dc:source="ashishbansal_logo_large.png" rdfs:Literal="mr.phantom" />
+	<dc:relation dc:source="" />
+</rdf:Description>
+</rdf:RDF>
