@@ -1,6 +1,6 @@
-ashish-bansal.github.io
+ashish-bansal.in
 =======================
 
 My Website
 
-http://ashish-bansal.github.io
+http://ashish-bansal.in
